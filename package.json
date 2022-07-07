@@ -1,5 +1,5 @@
 {
-  "name": "graphdown",
+  "name": "graphdown.io",
   "version": "0.0.1",
   "description": "Graphdown is a markdown-esque language for generating interactive multi-dimensional graphs.",
   "main": "index.js",
