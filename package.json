@@ -1,0 +1,19 @@
+{
+  "name": "graphdown",
+  "version": "0.0.1",
+  "description": "Graphdown is a markdown-esque language for generating interactive multi-dimensional graphs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AJB99/graphdown.git"
+  },
+  "author": "Aaron J Ban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJB99/graphdown/issues"
+  },
+  "homepage": "https://github.com/AJB99/graphdown#readme"
+}
